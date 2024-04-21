@@ -5,6 +5,7 @@
        - malade de type boolean  
        - score de type int  
 ![1](https://github.com/BOULAHYA-Chaymae/TP2-Spring-Data-JPA-Hibernate/assets/167257389/03a09681-49e0-4bda-afa3-8153a1bb5deb)
+
 **2. Configurer l'unité de persistance dans le ficher application.properties**
    
 ![2](https://github.com/BOULAHYA-Chaymae/TP2-Spring-Data-JPA-Hibernate/assets/167257389/c104b01f-1f04-4fb3-b782-1dcda015c4b7)  
