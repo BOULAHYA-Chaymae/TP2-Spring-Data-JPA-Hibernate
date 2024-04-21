@@ -2,7 +2,7 @@
 1. Créer l'entité JPA Patient ayant les attributs :  
        - id de type Long  
        - nom de type String  
-       - dateNaissanec de type Date  
+       
        - malade de type boolean  
        - score de type int  
 ![1](https://github.com/BOULAHYA-Chaymae/TP2-Spring-Data-JPA-Hibernate/assets/167257389/03a09681-49e0-4bda-afa3-8153a1bb5deb)
