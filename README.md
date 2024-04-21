@@ -1,5 +1,5 @@
 **Activité Pratique N°2 - Spring Data JPA Hibernate**  
-1. Créer l'entité JPA Patient ayant les attributs :  
+1.Entité JPA Patient ayant les attributs :  
        - id de type Long  
        - nom de type String  
        - malade de type boolean  
@@ -9,15 +9,19 @@
 **2. Configurer l'unité de persistance dans le ficher application.properties**
    
 ![2](https://github.com/BOULAHYA-Chaymae/TP2-Spring-Data-JPA-Hibernate/assets/167257389/c104b01f-1f04-4fb3-b782-1dcda015c4b7)  
+
 **3. Créer l'interface JPA Repository basée sur Spring data**
 
 ![3](https://github.com/BOULAHYA-Chaymae/TP2-Spring-Data-JPA-Hibernate/assets/167257389/93ae2da2-767f-4506-b3f7-6278a23fcd47)  
-**4. Tester quelques opérations de gestion de patients :**  
+
+**4.Quelques opérations de gestion de patients :**  
 
 ![4](https://github.com/BOULAHYA-Chaymae/TP2-Spring-Data-JPA-Hibernate/assets/167257389/33498e30-eb34-4f63-ae70-3b757797f951)  
-**7. Migrer de H2 Database vers MySQL**  
+
+**7. Migration de H2 Database vers MySQL**  
 
 ![5](https://github.com/BOULAHYA-Chaymae/TP2-Spring-Data-JPA-Hibernate/assets/167257389/4234722a-25fb-497d-8ad6-3bb6db0345f4)  
+
 **8.Medecin:**  
 
 ![Classe medecin](https://github.com/BOULAHYA-Chaymae/TP2-Spring-Data-JPA-Hibernate/assets/167257389/ef467c15-4f09-4320-a575-aa88e0e1124e)   
